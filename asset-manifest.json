@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tagutaj.github.io/static/css/main.11e45714.chunk.css",
-    "main.js": "/tagutaj.github.io/static/js/main.6840ff6e.chunk.js",
-    "main.js.map": "/tagutaj.github.io/static/js/main.6840ff6e.chunk.js.map",
+    "main.js": "/tagutaj.github.io/static/js/main.cb492e77.chunk.js",
+    "main.js.map": "/tagutaj.github.io/static/js/main.cb492e77.chunk.js.map",
     "runtime-main.js": "/tagutaj.github.io/static/js/runtime-main.4b3c6570.js",
     "runtime-main.js.map": "/tagutaj.github.io/static/js/runtime-main.4b3c6570.js.map",
     "static/css/2.af3c1da9.chunk.css": "/tagutaj.github.io/static/css/2.af3c1da9.chunk.css",
     "static/js/2.0fb1340e.chunk.js": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js",
     "static/js/2.0fb1340e.chunk.js.map": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js.map",
     "index.html": "/tagutaj.github.io/index.html",
-    "precache-manifest.af3d30a175d62c2f611d2259ccbbc49d.js": "/tagutaj.github.io/precache-manifest.af3d30a175d62c2f611d2259ccbbc49d.js",
+    "precache-manifest.037affab381e460e97f49cede965a281.js": "/tagutaj.github.io/precache-manifest.037affab381e460e97f49cede965a281.js",
     "service-worker.js": "/tagutaj.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/tagutaj.github.io/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.11e45714.chunk.css.map": "/tagutaj.github.io/static/css/main.11e45714.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0fb1340e.chunk.js",
     "static/css/main.11e45714.chunk.css",
-    "static/js/main.6840ff6e.chunk.js"
+    "static/js/main.cb492e77.chunk.js"
   ]
 }
