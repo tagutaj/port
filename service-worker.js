@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tagutaj.github.io/precache-manifest.36816c55ec4e60433e78576713b3b7ba.js"
+  "/tagutaj.github.io/precache-manifest.4d009452e46f68a6a32d9acde30f6489.js"
 );
 
 self.addEventListener('message', (event) => {
