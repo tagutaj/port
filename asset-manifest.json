@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/tagutaj.github.io/static/css/main.11e45714.chunk.css",
-    "main.js": "/tagutaj.github.io/static/js/main.98943166.chunk.js",
-    "main.js.map": "/tagutaj.github.io/static/js/main.98943166.chunk.js.map",
+    "main.js": "/tagutaj.github.io/static/js/main.067f2012.chunk.js",
+    "main.js.map": "/tagutaj.github.io/static/js/main.067f2012.chunk.js.map",
     "runtime-main.js": "/tagutaj.github.io/static/js/runtime-main.4b3c6570.js",
     "runtime-main.js.map": "/tagutaj.github.io/static/js/runtime-main.4b3c6570.js.map",
     "static/css/2.af3c1da9.chunk.css": "/tagutaj.github.io/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e98ff3db.chunk.js": "/tagutaj.github.io/static/js/2.e98ff3db.chunk.js",
-    "static/js/2.e98ff3db.chunk.js.map": "/tagutaj.github.io/static/js/2.e98ff3db.chunk.js.map",
+    "static/js/2.0fb1340e.chunk.js": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js",
+    "static/js/2.0fb1340e.chunk.js.map": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js.map",
     "index.html": "/tagutaj.github.io/index.html",
-    "precache-manifest.36816c55ec4e60433e78576713b3b7ba.js": "/tagutaj.github.io/precache-manifest.36816c55ec4e60433e78576713b3b7ba.js",
+    "precache-manifest.4d86ca37e6fed8b250fc177454c4a8be.js": "/tagutaj.github.io/precache-manifest.4d86ca37e6fed8b250fc177454c4a8be.js",
     "service-worker.js": "/tagutaj.github.io/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/tagutaj.github.io/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.11e45714.chunk.css.map": "/tagutaj.github.io/static/css/main.11e45714.chunk.css.map",
-    "static/js/2.e98ff3db.chunk.js.LICENSE.txt": "/tagutaj.github.io/static/js/2.e98ff3db.chunk.js.LICENSE.txt",
+    "static/js/2.0fb1340e.chunk.js.LICENSE.txt": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js.LICENSE.txt",
     "static/media/brand.jpg": "/tagutaj.github.io/static/media/brand.1d6ff1a0.jpg",
     "static/media/myshop.mp4": "/tagutaj.github.io/static/media/myshop.69acfb8a.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.4b3c6570.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e98ff3db.chunk.js",
+    "static/js/2.0fb1340e.chunk.js",
     "static/css/main.11e45714.chunk.css",
-    "static/js/main.98943166.chunk.js"
+    "static/js/main.067f2012.chunk.js"
   ]
 }
