@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a170455586e0450ac818216c1527566",
+    "revision": "95b50d44ae95d14ebd77a846eb5ecd16",
     "url": "/tagutaj.github.io/index.html"
   },
   {
