@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31860245ce9d7054b09e717c1b467e13",
+    "revision": "8d5f265975c9893f175d565df7fa7f63",
     "url": "/tagutaj.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tagutaj.github.io/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fe5c35360d3749f52f69",
+    "revision": "082b4986d7bad2dc4903",
     "url": "/tagutaj.github.io/static/css/main.11e45714.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe5c35360d3749f52f69",
-    "url": "/tagutaj.github.io/static/js/main.6840ff6e.chunk.js"
+    "revision": "082b4986d7bad2dc4903",
+    "url": "/tagutaj.github.io/static/js/main.89db0624.chunk.js"
   },
   {
     "revision": "24ded4a1778890c8f53f",
