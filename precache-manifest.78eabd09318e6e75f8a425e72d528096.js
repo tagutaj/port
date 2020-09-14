@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31860245ce9d7054b09e717c1b467e13",
+    "revision": "d95ca4e20c0caa356fc0dc42cf4c3cb3",
     "url": "/tagutaj.github.io/index.html"
   },
   {
-    "revision": "c5a777a08967c84ef727",
+    "revision": "49b88375bdde82961e10",
     "url": "/tagutaj.github.io/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fe5c35360d3749f52f69",
+    "revision": "bd286a0392843d7958fe",
     "url": "/tagutaj.github.io/static/css/main.11e45714.chunk.css"
   },
   {
-    "revision": "c5a777a08967c84ef727",
-    "url": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js"
+    "revision": "49b88375bdde82961e10",
+    "url": "/tagutaj.github.io/static/js/2.f21d86c9.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/tagutaj.github.io/static/js/2.0fb1340e.chunk.js.LICENSE.txt"
+    "url": "/tagutaj.github.io/static/js/2.f21d86c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe5c35360d3749f52f69",
-    "url": "/tagutaj.github.io/static/js/main.6840ff6e.chunk.js"
+    "revision": "bd286a0392843d7958fe",
+    "url": "/tagutaj.github.io/static/js/main.ba93eb64.chunk.js"
   },
   {
     "revision": "24ded4a1778890c8f53f",
